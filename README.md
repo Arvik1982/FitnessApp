@@ -1,29 +1,15 @@
-#  Сайт для онлайн школы тренировок "FitnessPro"." 
+# 💪 FitnessApp — Трекер тренировок
 
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://vercel.com)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
- **"Процессы командной разработки"**
+## 🌐 Live Demo
+https://command-work-kurs-r2qs.vercel.app
 
-## Разработчики:
-
-phone.kulikovarseniy@gmail.com
-
-## Описание работы проекта:
-
-Сайт состоит из:
-Главной страницы - описание сайта, список доступных курсов с возможностью перейти в курс для ознакомления с описанием и кнопка входа или регистрации.
-
-Страница описания курсов - на странице содержится описание курса и возможность записаться на него.
-
-Страница профиля пользователя - данные пользователя с возможностью редактирования, список его курсов и прогресс.
-
-Страница авторизации. 
-
-## Технологический стек:
-
-React
-Redux/toolkit
-Google Firebase
-React Router
+## Функционал
+- Трекер калорий + упражнений
+- Графики прогресса (Chart.js)
+- LocalStorage + Sync
 
 ## Установка и запуск проекта:
 Клонировать репозиторий с gitHub: https://github.com/Arvik1982/command_work_kurs/ ; 
