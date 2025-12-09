@@ -15,4 +15,4 @@ https://command-work-kurs-r2qs.vercel.app
 - Клонировать репозиторий с gitHub: https://github.com/Arvik1982/command_work_kurs/ ; 
 - Установить заисимости: npm install; 
 - Запуск: npm run start; 
-- Для работы с приложением перейдите: http://localhost:3000
+
