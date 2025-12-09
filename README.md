@@ -13,6 +13,8 @@
 - Экспорт данных
 
 ## 🌐 Live Demo
+[![FitnessApp Demo](https://img.shields.io/badge/Live_Demo-FF6B35?style=flat&logo=vercel&logoColor=white)](https://command-work-kurs-r2qs.vercel.app)
+
 https://command-work-kurs-r2qs.vercel.app
 
 ## Функционал
