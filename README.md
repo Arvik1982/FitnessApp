@@ -15,14 +15,6 @@
 ## 🌐 Live Demo
 [![FitnessApp Demo](https://img.shields.io/badge/Live_Demo-FF6B35?style=flat&logo=vercel&logoColor=white)](https://command-work-kurs-r2qs.vercel.app)
 
-## Demo интерфейс
-📊 График прогресса 📝 Новая тренировка
-┌─────────────────────┐ ┌─────────────────────┐
-│ 💪 Жим лежа │ │ Bench Press │
-│ 60kg → 70kg → 80kg │ │ Вес: 80kg │
-│ 📈 +20kg за месяц │ │ Повторения: 10 │
-│ │ │ Сеты: 4 │
-└─────────────────────┘ └─────────────────────┘
 
 ## Функционал
 - ✅ Запись тренировок (упражнение/вес/повторы/сеты)
