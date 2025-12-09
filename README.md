@@ -31,20 +31,7 @@
 🔄 Видео упражнений
 
 ## Технический стек
-{
- "dependencies": {
- 
-  "expo": "~51.0.0",
-  
-  "expo-sqlite": "~13.0.0",
-  
-  "react-native-charts-wrapper": "^0.6.0",
-  
-  "react-native-paper": "5.12.5"
-  
- }
- 
-}
+{"dependencies":{"expo": "~51.0.0","expo-sqlite": "~13.0.0","react-native-charts-wrapper": "^0.6.0","react-native-paper": "5.12.5"}}
 
 ## Установка и запуск проекта:
 - Клонировать репозиторий с gitHub: https://github.com/Arvik1982/command_work_kurs/ ; 
