@@ -1,10 +1,5 @@
 # 💪 FitnessApp — Трекер тренировок (React Native + Charts)
 
-[![ReactNative](https://img.shields.io/badge/React_Native-0.75-20232A?style=flat&logo=react&logoColor=%2361DAFB)]
-[![Expo](https://img.shields.io/badge/Expo-51+-46BC2F?style=flat&logo=expo&logoColor=white)]
-[![Charts](https://img.shields.io/badge/react_native_charts_wrapper-Charts-2196F3?style=flat)]
-[![SQLite](https://img.shields.io/badge/SQLite-offline--first-003B57?style=flat&logo=sqlite&logoColor=white)]
-
 ## Что делает приложение
 - Запись тренировок (упражнения + повторения + вес)
 - Графики прогресса (линейные + бары)
